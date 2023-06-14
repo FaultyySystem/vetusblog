@@ -18,11 +18,11 @@ Meu objetivo para criar este blog é compartilhar conhecimento, dicas e estimula
 
 Abordarei os conteúdos de forma objetiva e completa por aqui, já que eu também usarei o conteúdo do blog como forma de revisão.
 
-# Significado do nome
+# Significado do pseudônimo
 
-O nome "Vetus Scientia" tem como significado "buscar o conhecimento".
+O pseudônimo "Vetus Scientia" tem como significado "buscar o conhecimento".
 
-"Vetus" de "Antigo", visando o estudo dos gênios da velhos tempos. Já o "Scientia", dispõe-se ao novo, a inovação, a ciência e a razão.
+"Vetus" de "Antigo", visando o estudo dos gênios dos velhos tempos. Já o "Scientia", significa o novo, a inovação, a ciência e a razão.
 
 # Grupo Vetus
 
