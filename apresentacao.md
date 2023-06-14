@@ -32,15 +32,15 @@ O grupo Vetus é um grupo de estudos diferente dos normamente vistos pela intern
 
 A Vetus procura indivíduos com interesse em promover o conhecimento científico e tecnológico, e trabalhar em conjunto para desenvolver projetos e soluções em benefício da sociedade.
 
-A Vetus tem como objetivo reunir membros que possuam pelo menos um computador e acesso à internet, com o intuito de compartilhar conhecimento e experiências, e incentivar o desenvolvimento de habilidades em computação e assuntos científicos variados.
+A Vetus tem como objetivo reunir membros que possuem pelo menos um computador e acesso à internet, com o intuito de compartilhar conhecimento e experiências, e incentivar o desenvolvimento de habilidades em computação e assuntos científicos variados.
 
-A organização será liderada por uma equipe que trabalharão em conjunto para estabelecer regras claras e garantir o bom funcionamento da organização.
+A organização será liderada por uma equipe que trabalhará em conjunto para estabelecer regras claras e garantir o bom funcionamento da organização.
 
 Se você é uma pessoa interessada em contribuir para um mundo melhor através do conhecimento científico e tecnológico, convidamos você a se juntar a nós na Vetus. Estamos ansiosos para recebê-lo em nossa comunidade e trabalhar juntos em prol de um futuro mais promissor para todos.
 
 Caso tenha interesse, clique [aqui](https://discord.gg/6nKqtr9rjx)
 
-Todas as demais regras, disciplinas, hierarquias, condutas etc, estará lá.
+Todas as demais regras, disciplinas, hierarquias, condutas etc, estarão lá.
 
 Espero que goste!
 
